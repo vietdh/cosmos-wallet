@@ -1,5 +1,5 @@
 {
-  "name": "cosmos-wallet",
+  "name": "v-cosmos-wallet",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
